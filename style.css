@@ -1,0 +1,60 @@
+:root {
+  --bg: #f6f5f1;
+  --panel: #ffffff;
+  --ink: #1d1f1c;
+  --muted: #6b6e66;
+  --line: #e2e0d8;
+  --accent: #d6402b;
+  --accent-soft: #fbe8e4;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #161714; --panel: #1f201d; --ink: #ecebe5; --muted: #9a9c93;
+    --line: #34352f; --accent: #ff6a4d; --accent-soft: #3a231e;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body {
+  display: flex; background: var(--bg); color: var(--ink);
+  font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+#panel {
+  width: 330px; flex-shrink: 0; display: flex; flex-direction: column;
+  background: var(--panel); border-right: 1px solid var(--line); height: 100%;
+}
+#map { flex: 1; height: 100%; }
+header { padding: 16px 16px 8px; }
+h1 { margin: 0; font-size: 20px; letter-spacing: -0.01em; }
+#summary { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+
+.controls { padding: 8px 16px; display: flex; flex-direction: column; gap: 6px; border-bottom: 1px solid var(--line); }
+.row { display: flex; gap: 6px; }
+.row > * { flex: 1; }
+input[type=search], select, button {
+  font: inherit; color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; min-width: 0;
+}
+button { cursor: pointer; }
+button:hover { border-color: var(--muted); }
+
+#list { list-style: none; margin: 0; padding: 4px 0; overflow-y: auto; flex: 1; }
+#list li {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: center;
+  padding: 6px 16px; cursor: pointer;
+}
+#list li:hover, #list li.active { background: var(--accent-soft); }
+#list li .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+#list li .meta { color: var(--muted); font-size: 12px; white-space: nowrap; }
+#list li .swatch { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+#list input { margin: 0; accent-color: var(--accent); }
+
+.leaflet-popup-content { font: 13px/1.4 system-ui, sans-serif; }
+.leaflet-popup-content b { display: block; margin-bottom: 2px; }
+.leaflet-popup-content a { color: var(--accent); }
+
+@media (max-width: 700px) {
+  body { flex-direction: column-reverse; }
+  #panel { width: 100%; height: 45%; border-right: 0; border-top: 1px solid var(--line); }
+  #map { height: 55%; }
+}

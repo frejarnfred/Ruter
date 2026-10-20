@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="http://ridewithgps.com/" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd">
+  <metadata>
+    <name>MUDCLUB-MUDCLUB</name>
+    <link href="https://ridewithgps.com/routes/53445223">
+      <text>MUDCLUB-MUDCLUB</text>
+    </link>
+    <time>2025-12-04T13:38:06Z</time>
+  </metadata>
+  <rte>
+    <name>MUDCLUB-MUDCLUB</name>
+    <rtept lat="55.709" lon="12.50824">
+      <name>Start</name>
+      <cmt>Start of route</cmt>
+    </rtept>
+    <rtept lat="55.70925" lon="12.50909">
+      <name>Right</name>
+      <cmt>Turn right onto Hareskovvej</cmt>
+    </rtept>
+    <rtept lat="55.70866" lon="12.51201">
+      <name>Left</name>
+      <cmt>Turn left onto Hyrdevangen</cmt>
+    </rtept>
+    <rtept lat="55.70997" lon="12.51273">
+      <name>Right</name>
+      <cmt>Turn right onto Efterslægtsvej</cmt>
+    </rtept>
+    <rtept lat="55.70979" lon="12.51445">
+      <name>Left</name>
+      <cmt>Turn left onto Efterslægtsvej</cmt>
+    </rtept>
+    <rtept lat="55.71098" lon="12.51489">
+      <name>Right</name>
+      <cmt>Turn right onto Horsebakken</cmt>
+    </rtept>
+    <rtept lat="55.71058" lon="12.51672">
+      <name>Left</name>
+      <cmt>Turn left onto Hjortholms Allé</cmt>
+    </rtept>
+    <rtept lat="55.71319" lon="12.521">
+      <name>Left</name>
+      <cmt>Turn left onto Støvnæs Allé</cmt>
+    </rtept>
+    <rtept lat="55.71353" lon="12.52086">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71358" lon="12.52141">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.71522" lon="12.52255">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="55.71587" lon="12.52943">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.71665" lon="12.52929">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71663" lon="12.53035">
+      <name>Right</name>
+      <cmt>Turn right onto Bispebjerg Torv</cmt>
+    </rtept>
+    <rtept lat="55.71661" lon="12.53035">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.7166" lon="12.53052">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71643" lon="12.53065">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.71623" lon="12.53103">
+      <name>Right</name>
+      <cmt>Turn right onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.7162" lon="12.53104">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.71615" lon="12.53119">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.71617" lon="12.53119">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.71614" lon="12.53137">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71604" lon="12.53136">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71604" lon="12.53119">
+      <name>Left</name>
+      <cmt>Turn left onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.71265" lon="12.53202">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.71191" lon="12.53209">
+      <name>Right</name>
+      <cmt>Turn right onto Tomsgårdsvej</cmt>
+    </rtept>
+    <rtept lat="55.71126" lon="12.53059">
+      <name>Right</name>
+      <cmt>Turn right onto Møllerlodden</cmt>
+    </rtept>
+    <rtept lat="55.71138" lon="12.53045">
+      <name>Left</name>
+      <cmt>Turn left onto Tomsgårdsvej</cmt>
+    </rtept>
+    <rtept lat="55.71086" lon="12.52934">
+      <name>Left</name>
+      <cmt>Turn left onto Klokkerhøjen</cmt>
+    </rtept>
+    <rtept lat="55.71072" lon="12.52949">
+      <name>Right</name>
+      <cmt>Turn right onto Tomsgårdsvej</cmt>
+    </rtept>
+    <rtept lat="55.71028" lon="12.52854">
+      <name>Left</name>
+      <cmt>Turn left onto Hovmestervej</cmt>
+    </rtept>
+    <rtept lat="55.71017" lon="12.52919">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.7114" lon="12.53152">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.71137" lon="12.53209">
+      <name>Right</name>
+      <cmt>Turn right onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.7112" lon="12.53208">
+      <name>Left</name>
+      <cmt>Turn left onto Postholdervej</cmt>
+    </rtept>
+    <rtept lat="55.7112" lon="12.53322">
+      <name>Left</name>
+      <cmt>Turn left onto Magistervej</cmt>
+    </rtept>
+    <rtept lat="55.71149" lon="12.53321">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.7115" lon="12.53367">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.71146" lon="12.53433">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.71148" lon="12.53469">
+      <name>Straight</name>
+      <cmt>Continue onto Tårnblæservej</cmt>
+    </rtept>
+    <rtept lat="55.71176" lon="12.53644">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.71176" lon="12.53644">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70805" lon="12.53973">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70806" lon="12.53976">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.7078" lon="12.54001">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70683" lon="12.54133">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.70661" lon="12.54162">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="55.70637" lon="12.54133">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70639" lon="12.54064">
+      <name>Right</name>
+      <cmt>Turn right onto Fyrbødervej</cmt>
+    </rtept>
+    <rtept lat="55.70664" lon="12.5385">
+      <name>Left</name>
+      <cmt>Turn left onto Lygten</cmt>
+    </rtept>
+    <rtept lat="55.7061" lon="12.53836">
+      <name>Right</name>
+      <cmt>Turn right onto Bisiddervej</cmt>
+    </rtept>
+    <rtept lat="55.70643" lon="12.5321">
+      <name>Left</name>
+      <cmt>Turn left onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.70595" lon="12.5321">
+      <name>Slight Right</name>
+      <cmt>Keep right onto Frederiksborgvej</cmt>
+    </rtept>
+    <rtept lat="55.70557" lon="12.53204">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70521" lon="12.53176">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Glasvej</cmt>
+    </rtept>
+    <rtept lat="55.70338" lon="12.52941">
+      <name>Straight</name>
+      <cmt>Continue onto Mågevej</cmt>
+    </rtept>
+    <rtept lat="55.70035" lon="12.52573">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Rørsangervej</cmt>
+    </rtept>
+    <rtept lat="55.70062" lon="12.52536">
+      <name>Left</name>
+      <cmt>Turn left onto Bogfinkevej</cmt>
+    </rtept>
+    <rtept lat="55.69984" lon="12.52332">
+      <name>Right</name>
+      <cmt>Turn right onto Vestergårdsvej</cmt>
+    </rtept>
+    <rtept lat="55.69914" lon="12.52432">
+      <name>Right</name>
+      <cmt>Turn right onto Mågevej</cmt>
+    </rtept>
+    <rtept lat="55.69837" lon="12.52343">
+      <name>Left</name>
+      <cmt>Turn left onto Borups Allé</cmt>
+    </rtept>
+    <rtept lat="55.69688" lon="12.52533">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69688" lon="12.52582">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.69689" lon="12.52595">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="55.69709" lon="12.52561">
+      <name>Right</name>
+      <cmt>Turn right onto Vibevej</cmt>
+    </rtept>
+    <rtept lat="55.69749" lon="12.52651">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Vibevej</cmt>
+    </rtept>
+    <rtept lat="55.69785" lon="12.52743">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Vibevej</cmt>
+    </rtept>
+    <rtept lat="55.70186" lon="12.53326">
+      <name>Right</name>
+      <cmt>Turn right onto Frederikssundsvej</cmt>
+    </rtept>
+    <rtept lat="55.70183" lon="12.53332">
+      <name>Straight</name>
+      <cmt>Continue onto Frederikssundsvej</cmt>
+    </rtept>
+    <rtept lat="55.70134" lon="12.53603">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Frederikssundsvej</cmt>
+    </rtept>
+    <rtept lat="55.70119" lon="12.53746">
+      <name>Left</name>
+      <cmt>Turn left onto Mimers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70124" lon="12.53749">
+      <name>Right</name>
+      <cmt>Turn right onto Mimers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70116" lon="12.53876">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="55.70113" lon="12.53909">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto Mimersgade</cmt>
+    </rtept>
+    <rtept lat="55.70109" lon="12.53962">
+      <name>Left</name>
+      <cmt>Turn left onto Borgmestervangen</cmt>
+    </rtept>
+    <rtept lat="55.70225" lon="12.54025">
+      <name>Right</name>
+      <cmt>Turn right onto Hothers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70211" lon="12.54147">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70281" lon="12.54213">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70267" lon="12.54312">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70375" lon="12.54415">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.70463" lon="12.54493">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70475" lon="12.54512">
+      <name>Right</name>
+      <cmt>Turn right onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.7046" lon="12.54544">
+      <name>Uturn</name>
+      <cmt>Make a U-turn onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.70475" lon="12.54512">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70463" lon="12.54493">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70375" lon="12.54415">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="55.70267" lon="12.54312">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70281" lon="12.54213">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.70211" lon="12.54147">
+      <name>Right</name>
+      <cmt>Turn right onto Hothers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70225" lon="12.54025">
+      <name>Left</name>
+      <cmt>Turn left onto Borgmestervangen</cmt>
+    </rtept>
+    <rtept lat="55.70109" lon="12.53962">
+      <name>Right</name>
+      <cmt>Turn right onto Mimersgade</cmt>
+    </rtept>
+    <rtept lat="55.70113" lon="12.53909">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.70116" lon="12.53876">
+      <name>Slight Right</name>
+      <cmt>Keep right onto Mimers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70124" lon="12.53749">
+      <name>Left</name>
+      <cmt>Turn left onto Mimers Plads</cmt>
+    </rtept>
+    <rtept lat="55.70119" lon="12.53746">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.70158" lon="12.53468">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Frederikssundsvej</cmt>
+    </rtept>
+    <rtept lat="55.70186" lon="12.53326">
+      <name>Left</name>
+      <cmt>Turn left onto Vibevej</cmt>
+    </rtept>
+    <rtept lat="55.69785" lon="12.52743">
+      <name>Left</name>
+      <cmt>Turn left onto Blåmejsevej</cmt>
+    </rtept>
+    <rtept lat="55.69681" lon="12.52868">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Hillerødgade</cmt>
+    </rtept>
+    <rtept lat="55.69679" lon="12.52754">
+      <name>Slight Right</name>
+      <cmt>Keep right onto Hillerødgade</cmt>
+    </rtept>
+    <rtept lat="55.69675" lon="12.52549">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="55.69587" lon="12.52696">
+      <name>Straight</name>
+      <cmt>Continue onto Borups Allé</cmt>
+    </rtept>
+    <rtept lat="55.69263" lon="12.53625">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto Ågade</cmt>
+    </rtept>
+    <rtept lat="55.69338" lon="12.53626">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right</cmt>
+    </rtept>
+    <rtept lat="55.69314" lon="12.53758">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69338" lon="12.53791">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69338" lon="12.53809">
+      <name>Left</name>
+      <cmt>Turn left onto Lundtoftegade</cmt>
+    </rtept>
+    <rtept lat="55.69376" lon="12.53805">
+      <name>Right</name>
+      <cmt>Turn right onto Nærumgade</cmt>
+    </rtept>
+    <rtept lat="55.69376" lon="12.54105">
+      <name>Left</name>
+      <cmt>Turn left onto Krogerupgade</cmt>
+    </rtept>
+    <rtept lat="55.69381" lon="12.54104">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69384" lon="12.54221">
+      <name>Left</name>
+      <cmt>Turn left onto Stefansgade</cmt>
+    </rtept>
+    <rtept lat="55.69773" lon="12.54714">
+      <name>Right</name>
+      <cmt>Turn right onto Dagmarsgade</cmt>
+    </rtept>
+    <rtept lat="55.69748" lon="12.54753">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto Rådmandsgade</cmt>
+    </rtept>
+    <rtept lat="55.69886" lon="12.54914">
+      <name>Right</name>
+      <cmt>Turn right onto Mimersgade</cmt>
+    </rtept>
+    <rtept lat="55.69845" lon="12.55035">
+      <name>Left</name>
+      <cmt>Turn left onto Thorsgade</cmt>
+    </rtept>
+    <rtept lat="55.69968" lon="12.55346">
+      <name>Right</name>
+      <cmt>Turn right onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.69952" lon="12.55368">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.69915" lon="12.55442">
+      <name>Right</name>
+      <cmt>Turn right onto Jagtvej</cmt>
+    </rtept>
+    <rtept lat="55.6952" lon="12.54983">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.6946" lon="12.54909">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Jagtvej</cmt>
+    </rtept>
+    <rtept lat="55.68899" lon="12.54276">
+      <name>Left</name>
+      <cmt>Turn left onto Rantzausgade</cmt>
+    </rtept>
+    <rtept lat="55.68848" lon="12.5442">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Rantzausgade</cmt>
+    </rtept>
+    <rtept lat="55.68522" lon="12.55325">
+      <name>Left</name>
+      <cmt>Turn left onto Gartnergade</cmt>
+    </rtept>
+    <rtept lat="55.68637" lon="12.55483">
+      <name>Left</name>
+      <cmt>Turn left onto Korsgade</cmt>
+    </rtept>
+    <rtept lat="55.68652" lon="12.55442">
+      <name>Right</name>
+      <cmt>Turn right onto Stengade</cmt>
+    </rtept>
+    <rtept lat="55.68917" lon="12.55727">
+      <name>Right</name>
+      <cmt>Turn right onto Nørrebrogade</cmt>
+    </rtept>
+    <rtept lat="55.68909" lon="12.55747">
+      <name>Left</name>
+      <cmt>Turn left onto Elmegade</cmt>
+    </rtept>
+    <rtept lat="55.68979" lon="12.55836">
+      <name>Left</name>
+      <cmt>Turn left onto Birkegade</cmt>
+    </rtept>
+    <rtept lat="55.69138" lon="12.5586">
+      <name>Left</name>
+      <cmt>Turn left onto Guldbergsgade</cmt>
+    </rtept>
+    <rtept lat="55.69187" lon="12.55751">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69224" lon="12.55746">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.6923" lon="12.55755">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69238" lon="12.55737">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.69462" lon="12.5565">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.6954" lon="12.55634">
+      <name>Left</name>
+      <cmt>Turn left onto Sjællandsgade</cmt>
+    </rtept>
+    <rtept lat="55.69535" lon="12.55621">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Refsnæsgade</cmt>
+    </rtept>
+    <rtept lat="55.69839" lon="12.5557">
+      <name>Left</name>
+      <cmt>Turn left onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.69888" lon="12.55465">
+      <name>Uturn</name>
+      <cmt>Make a U-turn onto Tagensvej</cmt>
+    </rtept>
+    <rtept lat="55.69682" lon="12.55997">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69688" lon="12.56008">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69687" lon="12.5601">
+      <name>Left</name>
+      <cmt>Turn left onto Nørre Campus</cmt>
+    </rtept>
+    <rtept lat="55.69648" lon="12.56121">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69647" lon="12.56127">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left</cmt>
+    </rtept>
+    <rtept lat="55.69651" lon="12.56127">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69652" lon="12.56153">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.69647" lon="12.56178">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.69646" lon="12.56189">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.69644" lon="12.56205">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69651" lon="12.56224">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69368" lon="12.56676">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="55.69362" lon="12.56695">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.69222" lon="12.56947">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69121" lon="12.57197">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69117" lon="12.57207">
+      <name>Left</name>
+      <cmt>Turn left onto Øster Søgade</cmt>
+    </rtept>
+    <rtept lat="55.69132" lon="12.57249">
+      <name>Right</name>
+      <cmt>Turn right onto Wiedeweltsgade</cmt>
+    </rtept>
+    <rtept lat="55.69029" lon="12.57494">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69004" lon="12.57472">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69" lon="12.57474">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.68997" lon="12.57476">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.6898" lon="12.57489">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.6898" lon="12.57489">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69" lon="12.57474">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.69004" lon="12.57472">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69029" lon="12.57494">
+      <name>Left</name>
+      <cmt>Turn left onto Wiedeweltsgade</cmt>
+    </rtept>
+    <rtept lat="55.69132" lon="12.57249">
+      <name>Left</name>
+      <cmt>Turn left onto Øster Søgade</cmt>
+    </rtept>
+    <rtept lat="55.69117" lon="12.57207">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69121" lon="12.57197">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.6912" lon="12.57192">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.69126" lon="12.5719">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69205" lon="12.56978">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.6921" lon="12.56966">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.69154" lon="12.56846">
+      <name>Left</name>
+      <cmt>Turn left onto Sortedam Dossering</cmt>
+    </rtept>
+    <rtept lat="55.68906" lon="12.56492">
+      <name>Right</name>
+      <cmt>Turn right onto Sankt Hans Gade</cmt>
+    </rtept>
+    <rtept lat="55.68908" lon="12.56483">
+      <name>Left</name>
+      <cmt>Turn left onto Sortedam Dossering</cmt>
+    </rtept>
+    <rtept lat="55.68642" lon="12.56157">
+      <name>Left</name>
+      <cmt>Turn left onto Peblinge Dossering</cmt>
+    </rtept>
+    <rtept lat="55.6864" lon="12.56165">
+      <name>Right</name>
+      <cmt>Turn right onto Peblinge Dossering</cmt>
+    </rtept>
+    <rtept lat="55.68194" lon="12.55748">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.68181" lon="12.55708">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Rosenørns Allé</cmt>
+    </rtept>
+    <rtept lat="55.68178" lon="12.55665">
+      <name>Left</name>
+      <cmt>Turn left onto Vodroffsvej</cmt>
+    </rtept>
+    <rtept lat="55.67827" lon="12.55474">
+      <name>Left</name>
+      <cmt>Turn left onto Danasvej</cmt>
+    </rtept>
+    <rtept lat="55.67721" lon="12.56344">
+      <name>Straight</name>
+      <cmt>Continue onto Axeltorv</cmt>
+    </rtept>
+    <rtept lat="55.67774" lon="12.56706">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Vester Voldgade</cmt>
+    </rtept>
+    <rtept lat="55.67637" lon="12.56923">
+      <name>Uturn</name>
+      <cmt>Make a U-turn onto Vester Voldgade</cmt>
+    </rtept>
+    <rtept lat="55.67638" lon="12.56922">
+      <name>Right</name>
+      <cmt>Turn right onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67648" lon="12.5694">
+      <name>Left</name>
+      <cmt>Turn left onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67786" lon="12.57224">
+      <name>Right</name>
+      <cmt>Turn right onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67809" lon="12.57278">
+      <name>Straight</name>
+      <cmt>Continue onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67811" lon="12.57284">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67854" lon="12.57382">
+      <name>Straight</name>
+      <cmt>Continue onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67859" lon="12.57381">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Vimmelskaftet</cmt>
+    </rtept>
+    <rtept lat="55.67874" lon="12.57648">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto Valkendorfsgade</cmt>
+    </rtept>
+    <rtept lat="55.68045" lon="12.57841">
+      <name>Straight</name>
+      <cmt>Continue onto Kronprinsensgade</cmt>
+    </rtept>
+    <rtept lat="55.68212" lon="12.5827">
+      <name>Right</name>
+      <cmt>Turn right onto Gothersgade</cmt>
+    </rtept>
+    <rtept lat="55.68194" lon="12.58345">
+      <name>Left</name>
+      <cmt>Turn left onto Borgergade</cmt>
+    </rtept>
+    <rtept lat="55.68411" lon="12.58531">
+      <name>Right</name>
+      <cmt>Turn right onto Dronningens Tværgade</cmt>
+    </rtept>
+    <rtept lat="55.68408" lon="12.58543">
+      <name>Left</name>
+      <cmt>Turn left onto Borgergade</cmt>
+    </rtept>
+    <rtept lat="55.68526" lon="12.58642">
+      <name>Right</name>
+      <cmt>Turn right onto Sølvgade</cmt>
+    </rtept>
+    <rtept lat="55.68526" lon="12.58642">
+      <name>Left</name>
+      <cmt>Turn left onto Borgergade</cmt>
+    </rtept>
+    <rtept lat="55.68408" lon="12.58543">
+      <name>Right</name>
+      <cmt>Turn right onto Dronningens Tværgade</cmt>
+    </rtept>
+    <rtept lat="55.68411" lon="12.58531">
+      <name>Left</name>
+      <cmt>Turn left onto Borgergade</cmt>
+    </rtept>
+    <rtept lat="55.68194" lon="12.58345">
+      <name>Right</name>
+      <cmt>Turn right onto Gothersgade</cmt>
+    </rtept>
+    <rtept lat="55.68212" lon="12.5827">
+      <name>Left</name>
+      <cmt>Turn left onto Store Regnegade</cmt>
+    </rtept>
+    <rtept lat="55.68092" lon="12.5801">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Kronprinsensgade</cmt>
+    </rtept>
+    <rtept lat="55.68045" lon="12.57841">
+      <name>Straight</name>
+      <cmt>Continue onto Valkendorfsgade</cmt>
+    </rtept>
+    <rtept lat="55.67874" lon="12.57648">
+      <name>Sharp Right</name>
+      <cmt>Turn sharp right onto Vimmelskaftet</cmt>
+    </rtept>
+    <rtept lat="55.67859" lon="12.57381">
+      <name>Sharp Left</name>
+      <cmt>Turn sharp left onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67854" lon="12.57382">
+      <name>Straight</name>
+      <cmt>Continue onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67811" lon="12.57284">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto Nygade</cmt>
+    </rtept>
+    <rtept lat="55.67809" lon="12.57278">
+      <name>Straight</name>
+      <cmt>Continue onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67786" lon="12.57224">
+      <name>Left</name>
+      <cmt>Turn left onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67648" lon="12.5694">
+      <name>Right</name>
+      <cmt>Turn right onto Frederiksberggade</cmt>
+    </rtept>
+    <rtept lat="55.67636" lon="12.56919">
+      <name>Uturn</name>
+      <cmt>Make a U-turn onto Rådhuspladsen</cmt>
+    </rtept>
+    <rtept lat="55.67638" lon="12.56922">
+      <name>Right</name>
+      <cmt>Turn right onto Vester Voldgade</cmt>
+    </rtept>
+    <rtept lat="55.6757" lon="12.57057">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.67543" lon="12.57111">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67548" lon="12.57125">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67182" lon="12.57854">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67179" lon="12.57849">
+      <name>Left</name>
+      <cmt>Turn left onto Vester Voldgade</cmt>
+    </rtept>
+    <rtept lat="55.67145" lon="12.57895">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto Lille Langebro</cmt>
+    </rtept>
+    <rtept lat="55.67081" lon="12.58124">
+      <name>Left</name>
+      <cmt>Turn left onto Voldgården</cmt>
+    </rtept>
+    <rtept lat="55.67255" lon="12.58404">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67251" lon="12.58411">
+      <name>Straight</name>
+      <cmt>Continue onto Hammershøis Kaj</cmt>
+    </rtept>
+    <rtept lat="55.6719" lon="12.58529">
+      <name>Right</name>
+      <cmt>Turn right onto Nicolai Eigtveds Gade</cmt>
+    </rtept>
+    <rtept lat="55.67243" lon="12.58614">
+      <name>Right</name>
+      <cmt>Turn right onto Johan Semps Gade</cmt>
+    </rtept>
+    <rtept lat="55.67227" lon="12.58645">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67284" lon="12.58741">
+      <name>Right</name>
+      <cmt>Turn right onto Nicolai Eigtveds Gade</cmt>
+    </rtept>
+    <rtept lat="55.67269" lon="12.58772">
+      <name>Left</name>
+      <cmt>Turn left onto Strandgade</cmt>
+    </rtept>
+    <rtept lat="55.67584" lon="12.59277">
+      <name>Straight</name>
+      <cmt>Continue onto Strandgade</cmt>
+    </rtept>
+    <rtept lat="55.67775" lon="12.59774">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.67784" lon="12.59784">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67932" lon="12.60069">
+      <name>Straight</name>
+      <cmt>Continue onto Proviantbroen</cmt>
+    </rtept>
+    <rtept lat="55.67958" lon="12.60084">
+      <name>Straight</name>
+      <cmt>Continue onto Takkelloftvej</cmt>
+    </rtept>
+    <rtept lat="55.68301" lon="12.60371">
+      <name>Left</name>
+      <cmt>Turn left onto Fabrikmestervej</cmt>
+    </rtept>
+    <rtept lat="55.68302" lon="12.60368">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.68302" lon="12.60368">
+      <name>Left</name>
+      <cmt>Turn left onto Fabrikmestervej</cmt>
+    </rtept>
+    <rtept lat="55.68301" lon="12.60371">
+      <name>Right</name>
+      <cmt>Turn right onto Takkelloftvej</cmt>
+    </rtept>
+    <rtept lat="55.67958" lon="12.60084">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.67932" lon="12.60069">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.67797" lon="12.59954">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.67784" lon="12.59784">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67775" lon="12.59774">
+      <name>Straight</name>
+      <cmt>Continue onto Strandgade</cmt>
+    </rtept>
+    <rtept lat="55.67584" lon="12.59277">
+      <name>Straight</name>
+      <cmt>Continue onto Wilders Bro</cmt>
+    </rtept>
+    <rtept lat="55.67353" lon="12.58903">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67119" lon="12.59353">
+      <name>Left</name>
+      <cmt>Turn left onto Amagergade</cmt>
+    </rtept>
+    <rtept lat="55.67125" lon="12.59363">
+      <name>Right</name>
+      <cmt>Turn right onto Torvegade</cmt>
+    </rtept>
+    <rtept lat="55.67114" lon="12.59383">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.66949" lon="12.59586">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.66946" lon="12.59594">
+      <name>Slight Left</name>
+      <cmt>Turn slight left</cmt>
+    </rtept>
+    <rtept lat="55.66946" lon="12.59623">
+      <name>Left</name>
+      <cmt>Turn left onto Syddyssen</cmt>
+    </rtept>
+    <rtept lat="55.67959" lon="12.61291">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.6802" lon="12.61308">
+      <name>Slight Left</name>
+      <cmt>Turn slight left onto Norddyssen</cmt>
+    </rtept>
+    <rtept lat="55.68355" lon="12.61335">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.68286" lon="12.61466">
+      <name>Slight Right</name>
+      <cmt>Turn slight right onto Forlandet</cmt>
+    </rtept>
+    <rtept lat="55.67412" lon="12.61187">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67249" lon="12.60857">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67268" lon="12.60831">
+      <name>Left</name>
+      <cmt>Turn left onto Kløvermarksvej</cmt>
+    </rtept>
+    <rtept lat="55.66963" lon="12.6019">
+      <name>Left</name>
+      <cmt>Turn left onto Herjedalgade</cmt>
+    </rtept>
+    <rtept lat="55.66837" lon="12.60296">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Store Mølle Vej</cmt>
+    </rtept>
+    <rtept lat="55.66827" lon="12.60289">
+      <name>Slight Left</name>
+      <cmt>Keep left onto Store Mølle Vej</cmt>
+    </rtept>
+    <rtept lat="55.66685" lon="12.59846">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66677" lon="12.59819">
+      <name>Left</name>
+      <cmt>Turn left onto Amagerbrogade</cmt>
+    </rtept>
+    <rtept lat="55.66642" lon="12.59853">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.66568" lon="12.59912">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.66547" lon="12.59921">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.66534" lon="12.59933">
+      <name>Slight Right</name>
+      <cmt>Keep right</cmt>
+    </rtept>
+    <rtept lat="55.66532" lon="12.59933">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.664" lon="12.6007">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66405" lon="12.60084">
+      <name>Right</name>
+      <cmt>Turn right onto Amagerbrogade</cmt>
+    </rtept>
+    <rtept lat="55.66386" lon="12.60099">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.6639" lon="12.60112">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.6619" lon="12.60339">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.66186" lon="12.60344">
+      <name>Left</name>
+      <cmt>Turn left onto Brysselgade</cmt>
+    </rtept>
+    <rtept lat="55.66271" lon="12.60697">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66396" lon="12.60632">
+      <name>Right</name>
+      <cmt>Turn right onto Bøhmensgade</cmt>
+    </rtept>
+    <rtept lat="55.66449" lon="12.60892">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.66464" lon="12.60989">
+      <name>Straight</name>
+      <cmt>Continue onto Oldenborggade</cmt>
+    </rtept>
+    <rtept lat="55.66483" lon="12.6108">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.66481" lon="12.61081">
+      <name>Left</name>
+      <cmt>Turn left onto Oldenborggade</cmt>
+    </rtept>
+    <rtept lat="55.66501" lon="12.61174">
+      <name>Straight</name>
+      <cmt>Continue onto Donaugade</cmt>
+    </rtept>
+    <rtept lat="55.66542" lon="12.61346">
+      <name>Left</name>
+      <cmt>Turn left onto Østrigsgade</cmt>
+    </rtept>
+    <rtept lat="55.66635" lon="12.61276">
+      <name>Left</name>
+      <cmt>Turn left onto Holmbladsgade</cmt>
+    </rtept>
+    <rtept lat="55.66628" lon="12.61241">
+      <name>Right</name>
+      <cmt>Turn right onto Vermlandsgade</cmt>
+    </rtept>
+    <rtept lat="55.66708" lon="12.61179">
+      <name>Straight</name>
+      <cmt>At roundabout, take exit 3 onto Laplandsgade</cmt>
+    </rtept>
+    <rtept lat="55.67117" lon="12.60644">
+      <name>Uturn</name>
+      <cmt>Make a U-turn</cmt>
+    </rtept>
+    <rtept lat="55.6697" lon="12.6112">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66942" lon="12.61447">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.66927" lon="12.61441">
+      <name>Left</name>
+      <cmt>Turn left onto Uplandsgade</cmt>
+    </rtept>
+    <rtept lat="55.66891" lon="12.61891">
+      <name>Right</name>
+      <cmt>Turn right onto Strandlodsvej</cmt>
+    </rtept>
+    <rtept lat="55.66846" lon="12.61918">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66827" lon="12.62187">
+      <name>Left</name>
+      <cmt>Turn left onto Holmbladsgade</cmt>
+    </rtept>
+    <rtept lat="55.66835" lon="12.62223">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66851" lon="12.62234">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.66868" lon="12.62168">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.66945" lon="12.62106">
+      <name>Slight Left</name>
+      <cmt>Keep left</cmt>
+    </rtept>
+    <rtept lat="55.67493" lon="12.61616">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67495" lon="12.61623">
+      <name>Straight</name>
+      <cmt>Continue</cmt>
+    </rtept>
+    <rtept lat="55.67498" lon="12.61637">
+      <name>Left</name>
+      <cmt>Turn left onto Raffinaderivej</cmt>
+    </rtept>
+    <rtept lat="55.67525" lon="12.61613">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67554" lon="12.61719">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67575" lon="12.61701">
+      <name>Slight Right</name>
+      <cmt>Turn slight right</cmt>
+    </rtept>
+    <rtept lat="55.67594" lon="12.6174">
+      <name>Left</name>
+      <cmt>Turn left</cmt>
+    </rtept>
+    <rtept lat="55.67606" lon="12.61729">
+      <name>Right</name>
+      <cmt>Turn right onto Kløvermarksvej</cmt>
+    </rtept>
+    <rtept lat="55.67676" lon="12.61871">
+      <name>Right</name>
+      <cmt>Turn right</cmt>
+    </rtept>
+    <rtept lat="55.67642" lon="12.61942">
+      <name>End</name>
+      <cmt>End of route</cmt>
+    </rtept>
+  </rte>
+</gpx>
